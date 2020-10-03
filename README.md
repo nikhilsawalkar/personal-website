@@ -22,6 +22,17 @@ If you want to manage your website in a local web development environment, you'l
 
 Once you've found a home for your forked repository, **[clone it](https://help.github.com/articles/cloning-a-repository/)**.
 
+#### Jekyll Quickstart
+
+Jekyll is a static site generator. It takes text written in your favorite markup language and uses layouts to create a static website. You can tweak the site’s look and feel, URLs, the data displayed on the page, and more.
+
+PrerequisitesPermalink
+Jekyll requires the following:
+
+Ruby version 2.5.0 or higher
+RubyGems
+GCC and Make
+
 #### Install Jekyll
 
 Jekyll is a [Ruby Gem](https://jekyllrb.com/docs/ruby-101/#gems) that can be installed on most systems.
